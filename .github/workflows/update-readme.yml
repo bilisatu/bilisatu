@@ -15,26 +15,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update README with random quote
-        run: |
-          # Fetch a random quote from an API
-          QUOTE=$(curl -s https://api.quotable.io/random | jq -r '"\"\(.content)\" - \(.author)"')
-          
-          # Check if README.md exists
-          if [ -f README.md ]; then
-            # Replace or add the quote section
-            if grep -q "## 💬 Random Dev Quote" README.md; then
-              # Update existing section
-              sed -i "/## 💬 Random Dev Quote/,/---/c\\## 💬 Random Dev Quote\\$QUOTE\\---" README.md
-            else
-              # Add new section before the footer
-              sed -i "/---/i\\## 💬 Random Dev Quote\\$QUOTE\\---" README.md
-            fi
-          fi
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m "Update README with random quote" || echo "No changes to commit"
-          git push
+        uses: siddharth2016/quote-readme@main
+        with:
+          QUOTE_API_URL: 'https://api.quotable.io/random'
+          COMMIT_MESSAGE: 'Update README with random quote'
+          BRANCH_NAME: 'master'
