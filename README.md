@@ -1,4 +1,4 @@
-# 👋 Hi, I'm bilisatu!
+# 👋 Hi, I'm Safraeel!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves coding, learning new technologies, and building awesome projects. Here's a bit about me and what I'm up to.
 
