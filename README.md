@@ -52,5 +52,8 @@ Did you know? I love watching films most of the time!
 ## 📈 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=bilisatu&color=blue&style=flat-square)
 
+## 💬 Random Dev Quote
+"Loading a fresh quote..." - GitHub Actions
+
 ---
 ⭐️ From [bilisatu](https://github.com/bilisatu)
