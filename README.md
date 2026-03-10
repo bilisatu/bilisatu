@@ -17,10 +17,6 @@
 
 ## 🌃 Neon Command Center
 
-<table>
-	<tr>
-		<td width="60%" valign="top">
-
 ## 👋 Identity
 
 <img src="https://img.shields.io/badge/NAME-SAFRAEEL-111827?style=for-the-badge&logoColor=white&labelColor=020617&color=7c3aed" alt="name" />
@@ -37,18 +33,11 @@ I build **clean**, **bold**, and **high-energy** web interfaces that feel premiu
 
 > Turning ideas into interfaces that look sharp and feel alive.
 
-		</td>
-		<td width="40%" valign="top">
-			<img src="https://github-readme-stats.vercel.app/api?username=bilisatu&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&rank_icon=github&title_color=22d3ee&icon_color=ec4899&text_color=ffffff" alt="stats card" />
-		</td>
-	</tr>
-</table>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=bilisatu&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&rank_icon=github&title_color=22d3ee&icon_color=ec4899&text_color=ffffff" alt="stats card" />
+</div>
 
 ## 🧩 Bento Grid
-
-<table>
-	<tr>
-		<td width="50%" valign="top">
 
 ### 🚀 Current Missions
 
@@ -57,20 +46,12 @@ I build **clean**, **bold**, and **high-energy** web interfaces that feel premiu
 - Sharpening **UI systems** and **interaction polish**
 - Learning how to make products feel more premium
 
-		</td>
-		<td width="50%" valign="top">
-
 ### 🎬 Personal Energy
 
 - Love **watching films**
 - Enjoy **visual storytelling**
 - Inspired by **beautiful interfaces**
 - Always chasing the next level in design taste
-
-		</td>
-	</tr>
-	<tr>
-		<td width="50%" valign="top">
 
 ### 🧠 What I Bring
 
@@ -79,18 +60,31 @@ I build **clean**, **bold**, and **high-energy** web interfaces that feel premiu
 - Landing page thinking
 - Brand-focused UI decisions
 
-		</td>
-		<td width="50%" valign="top">
-
 ### 🌌 Developer Mode
 
 <img src="https://img.shields.io/badge/MODE-CREATIVE-111827?style=for-the-badge&labelColor=020617&color=22d3ee" alt="creative mode" />
 <img src="https://img.shields.io/badge/TASTE-HIGH-111827?style=for-the-badge&labelColor=020617&color=7c3aed" alt="taste high" />
 <img src="https://img.shields.io/badge/SHIPMENT-ACTIVE-111827?style=for-the-badge&labelColor=020617&color=ec4899" alt="shipment active" />
 
-		</td>
-	</tr>
-</table>
+## 🌠 Featured Builds
+
+### 🌐 safraeel.me
+
+Personal portfolio designed to represent my identity, work, and creative direction.
+
+**Launch:** [safraeel.me](https://safraeel.me)
+
+### ✨ launchglow.tech
+
+AI SaaS landing page focused on conversion, clarity, and premium visual energy.
+
+**Launch:** [launchglow.tech](https://launchglow.tech)
+
+### 🎯 Focus Super Clone
+
+Front-end clone project built to push layout quality and product-style UI practice.
+
+**Launch:** [Focus Super Clone](https://bilisatu.github.io/focus-super-clone/)
 
 ## ⚔️ Animated Skill Deck
 
@@ -109,40 +103,6 @@ I build **clean**, **bold**, and **high-energy** web interfaces that feel premiu
 ![VS_Code](https://img.shields.io/badge/VS_Code-0b0f19?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA)
 
 </div>
-
-## 🌠 Featured Builds
-
-<table>
-	<tr>
-		<td width="33%" valign="top">
-
-### 🌐 safraeel.me
-
-Personal portfolio designed to represent my identity, work, and creative direction.
-
-**Launch:** [safraeel.me](https://safraeel.me)
-
-		</td>
-		<td width="33%" valign="top">
-
-### ✨ launchglow.tech
-
-AI SaaS landing page focused on conversion, clarity, and premium visual energy.
-
-**Launch:** [launchglow.tech](https://launchglow.tech)
-
-		</td>
-		<td width="33%" valign="top">
-
-### 🎯 Focus Super Clone
-
-Front-end clone project built to push layout quality and product-style UI practice.
-
-**Launch:** [Focus Super Clone](https://bilisatu.github.io/focus-super-clone/)
-
-		</td>
-	</tr>
-</table>
 
 ## 📊 Signal Board
 
