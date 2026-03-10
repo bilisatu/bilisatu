@@ -120,23 +120,6 @@ Front-end clone project built to push layout quality and product-style UI practi
 
 **Launch:** [Focus Super Clone](https://bilisatu.github.io/focus-super-clone/)
 
-## 🖼️ Project Preview Deck
-
-<div align="center">
-	<a href="https://safraeel.me">
-		<img width="49%" src="https://image.thum.io/get/width/1200/crop/800/noanimate/https://safraeel.me" alt="safraeel.me preview" />
-	</a>
-	<a href="https://launchglow.tech">
-		<img width="49%" src="https://image.thum.io/get/width/1200/crop/800/noanimate/https://launchglow.tech" alt="launchglow.tech preview" />
-	</a>
-</div>
-
-<div align="center">
-	<a href="https://bilisatu.github.io/focus-super-clone/">
-		<img width="98%" src="https://image.thum.io/get/width/1400/crop/850/noanimate/https://bilisatu.github.io/focus-super-clone/" alt="Focus Super Clone preview" />
-	</a>
-</div>
-
 ## ⚔️ Animated Skill Deck
 
 <div align="center">
