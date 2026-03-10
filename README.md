@@ -17,6 +17,13 @@
 
 ## 🌃 Neon Command Center
 
+```bash
+> booting profile.exe
+> loading aesthetic: neon-cyberpunk
+> loading focus: front-end systems, UI polish, product feel
+> status: building the next sharper version of myself
+```
+
 ## 👋 Identity
 
 <img src="https://img.shields.io/badge/NAME-SAFRAEEL-111827?style=for-the-badge&logoColor=white&labelColor=020617&color=7c3aed" alt="name" />
@@ -112,8 +119,45 @@ Front-end clone project built to push layout quality and product-style UI practi
 </div>
 
 <div align="center">
+	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilisatu&bg_color=0b0f19&color=22d3ee&line=7c3aed&point=ec4899&area=true&hide_border=true" alt="activity graph" />
+</div>
+
+<div align="center">
+	<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilisatu&theme=tokyonight" alt="profile summary" />
+</div>
+
+<div align="center">
 	<img width="100%" src="https://github-profile-trophy.vercel.app/?username=bilisatu&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+	<img width="100%" src="https://raw.githubusercontent.com/bilisatu/bilisatu/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</div>
+
+## 🧬 God-Mode Blueprint
+
+- **UI Taste:** cinematic, clean, modern, high-contrast
+- **Build Style:** ship fast, refine hard, improve constantly
+- **Main Arena:** front-end development and landing page design
+- **Current Goal:** create products that feel premium at first glance
+- **Long Game:** become impossible to ignore on the internet
+
+## 🚨 Live Mission Feed
+
+```yaml
+currently_building:
+  - safraeel.me
+  - launchglow.tech
+
+currently_learning:
+  - advanced front-end systems
+  - better design decisions
+  - stronger product thinking
+
+current_vibe: "quiet grind, loud results"
+```
 
 ## 🌐 Connect Portal
 
