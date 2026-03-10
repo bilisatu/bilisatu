@@ -122,20 +122,9 @@ Front-end clone project built to push layout quality and product-style UI practi
 
 ## 🖼️ Project Preview Deck
 
-<div align="center">
-	<a href="https://safraeel.me">
-		<img width="49%" src="https://image.thum.io/get/width/1200/crop/800/noanimate/https://safraeel.me" alt="safraeel.me preview" />
-	</a>
-	<a href="https://launchglow.tech">
-		<img width="49%" src="https://image.thum.io/get/width/1200/crop/800/noanimate/https://launchglow.tech" alt="launchglow.tech preview" />
-	</a>
-</div>
-
-<div align="center">
-	<a href="https://bilisatu.github.io/focus-super-clone/">
-		<img width="98%" src="https://image.thum.io/get/width/1400/crop/850/noanimate/https://bilisatu.github.io/focus-super-clone/" alt="Focus Super Clone preview" />
-	</a>
-</div>
+- **[safraeel.me](https://safraeel.me)** — personal portfolio and brand showcase
+- **[launchglow.tech](https://launchglow.tech)** — AI SaaS landing page with premium visual direction
+- **[Focus Super Clone](https://bilisatu.github.io/focus-super-clone/)** — UI practice project focused on clean product feel
 
 ## ⚔️ Animated Skill Deck
 
@@ -157,27 +146,15 @@ Front-end clone project built to push layout quality and product-style UI practi
 
 ## 📊 Signal Board
 
-<div align="center">
-	<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bilisatu&theme=midnight-purple&hide_border=true&background=00000000&ring=22d3ee&fire=ec4899&currStreakLabel=ffffff" alt="streak stats" />
-</div>
-
-<div align="center">
-	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilisatu&bg_color=0b0f19&color=22d3ee&line=7c3aed&point=ec4899&area=true&hide_border=true" alt="activity graph" />
-</div>
-
-<div align="center">
-	<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilisatu&theme=tokyonight" alt="profile summary" />
-</div>
-
-<div align="center">
-	<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilisatu&theme=tokyonight" alt="repos per language" />
-</div>
+- Contributions are active on **GitHub profile**, **repositories**, and **front-end project work**.
+- Main working areas: **HTML**, **CSS**, **JavaScript**, **React**, and **Node.js**.
+- Current focus: **shipping cleaner products**, **sharper UI**, and **better product presentation**.
+- Profile activity: [GitHub overview](https://github.com/bilisatu) · [Repositories](https://github.com/bilisatu?tab=repositories) · [Contribution activity](https://github.com/bilisatu)
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-	<img width="100%" src="https://raw.githubusercontent.com/bilisatu/bilisatu/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</div>
+- Generated automatically from GitHub Actions and may take a little time to refresh after each push.
+- Output branch: [snake assets](https://github.com/bilisatu/bilisatu/tree/output)
 
 ## 🎬 Personal Energy
 
@@ -200,9 +177,7 @@ Front-end clone project built to push layout quality and product-style UI practi
 
 ## 💬 Dev Aura
 
-<div align="center">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
-</div>
+> Quiet grind. Loud results.
 
 ---
 
