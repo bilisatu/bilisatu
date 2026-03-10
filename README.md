@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,20:0f172a,45:7c3aed,70:ec4899,100:22d3ee&text=SAFRAEEL&fontSize=54&fontColor=ffffff&fontAlignY=37&desc=NEON%20UI%20%7C%20FRONT-END%20CRAFT%20%7C%20DIGITAL%20EXPERIENCES&descSize=16&descAlignY=58&animation=twinkling" alt="cyberpunk header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,18:0f172a,38:111827,58:7c3aed,78:ec4899,100:22d3ee&text=SAFRAEEL&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=FRONT-END%20CRAFT%20%7C%20CYBERPUNK%20TASTE%20%7C%20PREMIUM%20WEB%20EXPERIENCES&descSize=16&descAlignY=58&animation=twinkling" alt="hero banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2200&pause=800&color=22D3EE&center=true&vCenter=true&width=980&lines=Cyberpunk+Front-End+Developer;UI+That+Feels+Like+A+Movie;Building+Portfolio+%2B+SaaS+Experiences;Design.+Code.+Polish.+Ship." alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2000&pause=700&color=22D3EE&center=true&vCenter=true&width=1000&lines=Custom+Hacker+Terminal+Mode+Activated;Apple+Luxury+Polish+Mode+Activated;Anime+Energy+Mode+Activated;Minimal+Billionaire+Taste+Mode+Activated;Design.+Code.+Polish.+Ship." alt="typing intro" />
 
 <br />
 
-<img src="https://img.shields.io/badge/STATUS-IN%20BUILD%20MODE-0f172a?style=for-the-badge&logo=ghost&logoColor=22d3ee&labelColor=020617" alt="status" />
+<img src="https://img.shields.io/badge/STATUS-GOD%20MODE-0f172a?style=for-the-badge&logo=ghost&logoColor=22d3ee&labelColor=020617" alt="status" />
 <img src="https://komarev.com/ghpvc/?username=bilisatu&style=for-the-badge&color=ec4899" alt="profile views" />
 <img src="https://img.shields.io/github/followers/bilisatu?style=for-the-badge&color=7c3aed&labelColor=020617" alt="followers" />
 <img src="https://img.shields.io/github/stars/bilisatu?style=for-the-badge&color=22d3ee&labelColor=020617" alt="stars" />
@@ -15,65 +15,96 @@
 
 ---
 
-## 🌃 Neon Command Center
+## 🖥️ Hacker Terminal Header
 
 ```bash
-> booting profile.exe
-> loading aesthetic: neon-cyberpunk
-> loading focus: front-end systems, UI polish, product feel
-> status: building the next sharper version of myself
+$ sudo boot safraeel-profile --mode god
+[ OK ] neon core loaded
+[ OK ] anime energy injected
+[ OK ] apple luxury polish enabled
+[ OK ] billionaire minimalism calibrated
+[ OK ] project showcase pipeline online
+[RUN] building unforgettable digital experiences...
 ```
 
 ## 👋 Identity
 
-<img src="https://img.shields.io/badge/NAME-SAFRAEEL-111827?style=for-the-badge&logoColor=white&labelColor=020617&color=7c3aed" alt="name" />
-<img src="https://img.shields.io/badge/ROLE-FRONT_END%20DEVELOPER-111827?style=for-the-badge&logoColor=white&labelColor=020617&color=22d3ee" alt="role" />
-<img src="https://img.shields.io/badge/BASE-HARAR-111827?style=for-the-badge&logoColor=white&labelColor=020617&color=ec4899" alt="base" />
+<img src="https://img.shields.io/badge/NAME-SAFRAEEL-111827?style=for-the-badge&labelColor=020617&color=7c3aed" alt="name" />
+<img src="https://img.shields.io/badge/ROLE-FRONT_END%20DEVELOPER-111827?style=for-the-badge&labelColor=020617&color=22d3ee" alt="role" />
+<img src="https://img.shields.io/badge/BASE-HARAR-111827?style=for-the-badge&labelColor=020617&color=ec4899" alt="base" />
 
-I build **clean**, **bold**, and **high-energy** web interfaces that feel premium.
+I build **clean**, **bold**, and **high-feel** interfaces that make products look more premium than they did before.
 
 - 🎓 Studying **Computer Science & Software Development**
-- 🌱 Deep in **Web Development**, especially **Front-End Development**
+- 🌱 Focused on **Web Development** and **Front-End systems**
 - 💬 Best topic: **front-end frameworks**
 - 📫 Contact: **safraeelz@gmail.com**
-- ⚡ Style: **modern UI + fast feedback + polished details**
+- ⚡ Obsession: **polish, visual quality, speed, and vibe**
 
-> Turning ideas into interfaces that look sharp and feel alive.
+> I want people to stop scrolling when they see what I build.
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=bilisatu&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&rank_icon=github&title_color=22d3ee&icon_color=ec4899&text_color=ffffff" alt="stats card" />
 </div>
 
-## 🧩 Bento Grid
+## 🧠 Core Build DNA
 
-### 🚀 Current Missions
+- **Design Taste:** cinematic, clean, futuristic
+- **Build Style:** fast execution + sharp refinement
+- **Strength Zone:** landing pages, portfolio UI, brand-feel front-end
+- **Current Goal:** make everything look expensive and intentional
+- **Long Game:** become instantly recognizable through product taste
 
-- Building **[safraeel.me](https://safraeel.me)**
-- Designing **[launchglow.tech](https://launchglow.tech)**
-- Sharpening **UI systems** and **interaction polish**
-- Learning how to make products feel more premium
+## ⚡ Mode Switches
 
-### 🎬 Personal Energy
+### 🎌 Anime Version
 
-- Love **watching films**
-- Enjoy **visual storytelling**
-- Inspired by **beautiful interfaces**
-- Always chasing the next level in design taste
+- fast energy
+- colorful impact
+- dramatic presence
+- stylish hero sections
+- motion-heavy visual feeling
 
-### 🧠 What I Bring
+### 🍎 Apple Luxury Version
 
-- Clean front-end structure
-- Strong visual presentation
-- Landing page thinking
-- Brand-focused UI decisions
+- soft premium spacing
+- calm confidence
+- elegant hierarchy
+- minimal but expensive feel
+- product-first presentation
 
-### 🌌 Developer Mode
+### 🕴️ Ultra-Minimal Billionaire Style
 
-<img src="https://img.shields.io/badge/MODE-CREATIVE-111827?style=for-the-badge&labelColor=020617&color=22d3ee" alt="creative mode" />
-<img src="https://img.shields.io/badge/TASTE-HIGH-111827?style=for-the-badge&labelColor=020617&color=7c3aed" alt="taste high" />
-<img src="https://img.shields.io/badge/SHIPMENT-ACTIVE-111827?style=for-the-badge&labelColor=020617&color=ec4899" alt="shipment active" />
+- less noise
+- more power
+- clean black-and-white confidence
+- fewer words, stronger signal
+- presence through restraint
 
-## 🌠 Featured Builds
+### 🌌 Cyberpunk Version
+
+- neon contrast
+- dark atmosphere
+- glowing accents
+- futuristic tone
+- high-energy interface identity
+
+## 🚀 Live Mission Feed
+
+```yaml
+currently_building:
+	- safraeel.me
+	- launchglow.tech
+
+currently_improving:
+	- front-end systems
+	- visual taste
+	- product presentation
+
+current_vibe: "quiet grind, loud results"
+```
+
+## 🎯 Featured Builds
 
 ### 🌐 safraeel.me
 
@@ -92,6 +123,23 @@ AI SaaS landing page focused on conversion, clarity, and premium visual energy.
 Front-end clone project built to push layout quality and product-style UI practice.
 
 **Launch:** [Focus Super Clone](https://bilisatu.github.io/focus-super-clone/)
+
+## 🖼️ Project Preview Deck
+
+<div align="center">
+	<a href="https://safraeel.me">
+		<img width="49%" src="https://image.thum.io/get/width/1200/crop/800/noanimate/https://safraeel.me" alt="safraeel.me preview" />
+	</a>
+	<a href="https://launchglow.tech">
+		<img width="49%" src="https://image.thum.io/get/width/1200/crop/800/noanimate/https://launchglow.tech" alt="launchglow.tech preview" />
+	</a>
+</div>
+
+<div align="center">
+	<a href="https://bilisatu.github.io/focus-super-clone/">
+		<img width="98%" src="https://image.thum.io/get/width/1400/crop/850/noanimate/https://bilisatu.github.io/focus-super-clone/" alt="Focus Super Clone preview" />
+	</a>
+</div>
 
 ## ⚔️ Animated Skill Deck
 
@@ -136,28 +184,12 @@ Front-end clone project built to push layout quality and product-style UI practi
 	<img width="100%" src="https://raw.githubusercontent.com/bilisatu/bilisatu/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
 
-## 🧬 God-Mode Blueprint
+## 🎬 Personal Energy
 
-- **UI Taste:** cinematic, clean, modern, high-contrast
-- **Build Style:** ship fast, refine hard, improve constantly
-- **Main Arena:** front-end development and landing page design
-- **Current Goal:** create products that feel premium at first glance
-- **Long Game:** become impossible to ignore on the internet
-
-## 🚨 Live Mission Feed
-
-```yaml
-currently_building:
-  - safraeel.me
-  - launchglow.tech
-
-currently_learning:
-  - advanced front-end systems
-  - better design decisions
-  - stronger product thinking
-
-current_vibe: "quiet grind, loud results"
-```
+- love **watching films**
+- enjoy **visual storytelling**
+- inspired by **beautiful interfaces**
+- always pushing for a stronger next version
 
 ## 🌐 Connect Portal
 
@@ -181,6 +213,6 @@ current_vibe: "quiet grind, loud results"
 
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:7c3aed,100:22d3ee&height=2&section=header" alt="divider" width="100%" />
-	<h3>⚡ Built with taste, ambition, and neon energy.</h3>
+	<h3>⚡ Built with hacker energy, anime flair, luxury polish, and minimalist confidence.</h3>
 	<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:020617,30:7c3aed,65:ec4899,100:22d3ee" alt="footer" width="100%" />
 </div>
