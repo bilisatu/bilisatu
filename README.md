@@ -43,10 +43,6 @@ I build **clean**, **bold**, and **high-feel** interfaces that make products loo
 
 > I want people to stop scrolling when they see what I build.
 
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=bilisatu&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&rank_icon=github&title_color=22d3ee&icon_color=ec4899&text_color=ffffff" alt="stats card" />
-</div>
-
 ## 🧠 Core Build DNA
 
 - **Design Taste:** cinematic, clean, futuristic
@@ -162,7 +158,6 @@ Front-end clone project built to push layout quality and product-style UI practi
 ## 📊 Signal Board
 
 <div align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilisatu&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=ffffff" alt="top languages" />
 	<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bilisatu&theme=midnight-purple&hide_border=true&background=00000000&ring=22d3ee&fire=ec4899&currStreakLabel=ffffff" alt="streak stats" />
 </div>
 
@@ -175,7 +170,7 @@ Front-end clone project built to push layout quality and product-style UI practi
 </div>
 
 <div align="center">
-	<img width="100%" src="https://github-profile-trophy.vercel.app/?username=bilisatu&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+	<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bilisatu&theme=tokyonight" alt="repos per language" />
 </div>
 
 ## 🐍 Contribution Snake
